@@ -1,6 +1,6 @@
 
 {
-  // Shell executable: "/bin/bash", "/bin/sh", "/usr/bin/zsh"...
+  // Shell executable: "/bin/bash", "/usr/bin/zsh", "/usr/local/bin/fish"...
   // If empty then environment variable $SHELL is used.
   "shell": "",
 
