@@ -1,0 +1,11 @@
+
+{
+  // Shell executable: "/bin/bash", "/bin/sh", "/usr/bin/zsh"...
+  // If empty then environment variable $SHELL is used.
+  "shell": "",
+
+  // Choices are:
+  // 'best_match' — best match is used (z --echo)
+  // 'list'       — list matches to choose from (z --list)
+  "mode": "list"
+}
