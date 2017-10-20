@@ -5,7 +5,8 @@
   "shell": "",
 
   // Choices are:
-  // 'best_match' — best match is used (z --echo)
-  // 'list'       — list matches to choose from (z --list)
+  // 'best_match' — best match is used (z --echo <dirRegex>, no search)
+  // 'list'       — list matches to choose from (z --list <dirRegex>, then search)
+  // 'list_all'   — search list of directories based on 'frecency'. (z --list, then search)
   "mode": "list"
 }

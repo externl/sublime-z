@@ -1,6 +1,6 @@
 [
     {
         "keys": ["super+shift+o"],
-        "command": "z_open_directory"
+        "command": "z_jump_to_directory"
     }
 ]

@@ -1,7 +1,7 @@
 
 [
     {
-        "caption": "Z: Open directory",
-        "command": "z_open_directory"
+        "caption": "Z: Jump to directory",
+        "command": "z_jump_to_directory"
     }
 ]

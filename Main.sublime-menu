@@ -19,7 +19,7 @@
                               "caption": "Settings - Default",
                               "command": "open_file",
                               "args": {
-                                "file": "${packages}/z/Z.sublime-settings"
+                                "file": "${packages}/Z/Z.sublime-settings"
                               }
                             },
                             {
@@ -27,7 +27,7 @@
                                 "command": "edit_settings",
                                 "args":
                                 {
-                                    "base_file": "${packages}/z/Z.sublime-settings",
+                                    "base_file": "${packages}/Z/Z.sublime-settings",
                                     "default": "{\n\t$0\n}\n"
                                 }
                             }
