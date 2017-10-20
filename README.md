@@ -39,6 +39,6 @@ Open the command palate and search `Z: Jump to directory` and press enter. Depen
 
 ### Keybindings
 
-<kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>j</kbd>: jump to directory using selected `mode` setting.
+<kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>o</kbd>: jump to directory using selected `mode` setting.
 
 
