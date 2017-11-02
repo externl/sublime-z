@@ -74,7 +74,10 @@ class ZJumpToDirectoryCommand(sublime_plugin.WindowCommand):
         try:
             directory_list = z.getList()
             if directory_list:
-                self.show_directories(directory_list)
+                if len(directory_list) == 1:
+                    self.open_directory(directory_list[0])
+                else:
+                    self.show_directories(directory_list)
             else:
                 sublime.message_dialog('No matches for {}'.format(z.directory_regex))
         except Exception as e:
