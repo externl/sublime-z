@@ -6,6 +6,11 @@ A valid z installation is required.
 
 ## Installation
 
+### Package Control
+
+Press <kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open the command palette.
+Type `Package Control: Install Package` and press enter. Then search for `Z`.
+
 ### Manually
 
 Clone this repo as `Z` into Sublime Text's `Packages` directory. (Preferences > Browse packages...)
